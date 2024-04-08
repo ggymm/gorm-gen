@@ -3,7 +3,7 @@ package field_test
 import (
 	"fmt"
 
-	"gorm.io/gen/field"
+	"ggymm/gorm-gen/field"
 )
 
 func ExampleFunc() {

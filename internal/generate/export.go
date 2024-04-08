@@ -10,10 +10,10 @@ import (
 	"gorm.io/gorm/schema"
 	"gorm.io/gorm/utils/tests"
 
-	"gorm.io/gen/field"
-	"gorm.io/gen/helper"
-	"gorm.io/gen/internal/model"
-	"gorm.io/gen/internal/parser"
+	"ggymm/gorm-gen/field"
+	"ggymm/gorm-gen/helper"
+	"ggymm/gorm-gen/internal/model"
+	"ggymm/gorm-gen/internal/parser"
 )
 
 // GetQueryStructMeta generate db model by table name

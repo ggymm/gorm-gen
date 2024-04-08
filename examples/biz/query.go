@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"gorm.io/gen/examples/dal/query"
+	"ggymm/gorm-gen/examples/dal/query"
 )
 
 var q = query.Q

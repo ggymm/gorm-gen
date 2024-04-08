@@ -3,9 +3,9 @@ package main
 import (
 	"strings"
 
-	"gorm.io/gen"
-	"gorm.io/gen/examples/conf"
-	"gorm.io/gen/examples/dal"
+	"ggymm/gorm-gen"
+	"ggymm/gorm-gen/examples/conf"
+	"ggymm/gorm-gen/examples/dal"
 	"gorm.io/gorm"
 )
 

@@ -1,4 +1,4 @@
-module gorm.io/gen
+module ggymm/gorm-gen
 
 go 1.18
 
